@@ -13,3 +13,6 @@
 [submodule "Imperative/ASCII-art/ascii-art-web"]
 	path = Imperative/ASCII-art/ascii-art-web
 	url = https://github.com/Katerina1789/ascii-art-web.git
+[submodule "Piscines/piscine-go"]
+	path = Piscines/piscine-go
+	url = https://github.com/Katerina1789/Piscine-Go.git
