@@ -1,0 +1,15 @@
+[submodule "Algorithm/math-skills"]
+	path = Algorithm/math-skills
+	url = https://github.com/Katerina1789/math-skills.git
+[submodule "Imperative/git"]
+	path = Imperative/git
+	url = https://github.com/Katerina1789/git.git
+[submodule "Imperative/go-reloaded"]
+	path = Imperative/go-reloaded
+	url = https://github.com/Katerina1789/go-reloaded.git
+[submodule "Imperative/tetris-optimizer"]
+	path = Imperative/tetris-optimizer
+	url = https://github.com/Katerina1789/tetris-optimizer.git
+[submodule "Imperative/ASCII-art/ascii-art-web"]
+	path = Imperative/ASCII-art/ascii-art-web
+	url = https://github.com/Katerina1789/ascii-art-web.git
