@@ -10,9 +10,18 @@
 [submodule "Imperative/tetris-optimizer"]
 	path = Imperative/tetris-optimizer
 	url = https://github.com/Katerina1789/tetris-optimizer.git
-[submodule "Imperative/ASCII-art/ascii-art-web"]
-	path = Imperative/ASCII-art/ascii-art-web
+[submodule "Imperative/ascii-art-web"]
+	path = Imperative/ascii-art-web
 	url = https://github.com/Katerina1789/ascii-art-web.git
 [submodule "Piscines/piscine-go"]
 	path = Piscines/piscine-go
 	url = https://github.com/Katerina1789/Piscine-Go.git
+[submodule "Piscines/piscine-js"]
+	path = Piscines/piscine-js
+	url = https://github.com/Katerina1789/Piscine-JS.git
+[submodule "Imperative/atm-management-system"]
+	path = Imperative/atm-management-system
+	url = https://github.com/Katerina1789/atm-management-system.git
+[submodule "Imperative/push-swap"]
+	path = Imperative/push-swap
+	url = https://github.com/Katerina1789/push-swap.git
