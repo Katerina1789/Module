@@ -25,3 +25,6 @@
 [submodule "Imperative/ascii-art-web"]
 	path = Imperative/ascii-art-web
 	url = https://github.com/Katerina1789/ascii-art-web.git
+[submodule "Imperative/lem-in"]
+	path = Imperative/lem-in
+	url = https://github.com/Katerina1789/lem-in.git
