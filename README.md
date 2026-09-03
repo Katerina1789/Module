@@ -49,7 +49,7 @@ It’s meant to be:
 
 ---
 
-## 📈 Progress Timeline
+## Progress Timeline
 
 - **September 2025** — Go Piscine
 - **May 2026** — JavaScript Piscine
@@ -59,7 +59,7 @@ It’s meant to be:
 
 ---
 
-## 🛠 Skills Gained
+## Skills Gained
 
 - **Languages:** Go, JavaScript, HTML, CSS, (basics in: C++, SQL)
 - **Core Concepts:** algorithms, data structures, recursion, web development, AI intergration
@@ -68,7 +68,7 @@ It’s meant to be:
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 A minimal, professional attempt to showcase my development journey of real projects, clean code and continuous growth.
 Yes, I cringe at my early work, but it stays here untouched. It’s part of the story.
