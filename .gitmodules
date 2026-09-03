@@ -28,3 +28,6 @@
 [submodule "Imperative/lem-in"]
 	path = Imperative/lem-in
 	url = https://github.com/Katerina1789/lem-in.git
+[submodule "Hackathons/learnflowy"]
+	path = Hackathons/learnflowy
+	url = https://github.com/KMT-team/powersoft365hackathon.git
