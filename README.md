@@ -38,14 +38,11 @@ It’s meant to be:
 
 ## Featured Work
 
-- **Piscine Go** — My first bootcamp, 100+ exercises and group projects
-  https://github.com/Katerina1789/Piscine-Go
+- [Piscine Go](https://github.com/Katerina1789/Piscine-Go) — My first bootcamp, 100+ exercises and group projects
 
-- **Piscine JS** — DOM, async, Node.js, RAIDS and a lot of console.logs  
-  https://github.com/Katerina1789/Piscine-JS
+- [Piscine JS](https://github.com/Katerina1789/Piscine-JS) — DOM, async, Node.js, RAIDS and a lot of console.logs  
 
-- **Hackathons** — Unforgetable, core memories of brainstorming and creation
-  (https://github.com/KMT-team/powersoft365hackathon.git)
+- [Hackathons](https://github.com/KMT-team/powersoft365hackathon.git) — Unforgetable, core memories of brainstorming and creation
 
 ---
 
@@ -70,5 +67,5 @@ It’s meant to be:
 
 ## Purpose
 
-A minimal, professional attempt to showcase my development journey of real projects, clean code and continuous growth.
+A minimal, professional attempt to showcase my development journey of real projects, clean code and continuous growth.   
 Yes, I cringe at my early work, but it stays here untouched. It’s part of the story.
